@@ -8,4 +8,4 @@ This repository implements a Content Based Movie Recommender System trained and 
 
 The notebook uses the IMDb 5000 Movie Dataset. Download it from Kaggle:
 
-- [IMDb 5000 Movie Dataset on Kaggle]([https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset])
+- [IMDb 5000 Movie Dataset on Kaggle](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
